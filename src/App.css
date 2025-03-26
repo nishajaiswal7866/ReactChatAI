@@ -1,0 +1,4 @@
+.scroller{
+    overflow-y: auto;
+  scrollbar-color:rgb(39 39 42)  rgb(24 24 27);
+}
